@@ -19,6 +19,6 @@
     "posthtml-include": "^2.0.1",
     "rimraf": "^6.1.4"
   },
-  "source": "src/index.html",
+  "source": "index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
